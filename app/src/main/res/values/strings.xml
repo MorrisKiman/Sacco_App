@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Loca Sacco</string>
+    <string name="Password">Password</string>
+    <string name="UserName">User Name</string>
+    <string name="Title">Loca Sacco</string>
+    <string name="login">Login</string>
+
+    <!--for the login spinner-->
+    <string-array name="systemUsers">
+        <item>Teller</item>
+        <item>Attendant</item>
+        <item>Manager</item>
+    </string-array>
+
+</resources>
